@@ -9,7 +9,7 @@ namespace Projeto
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo!");
-            Console.WriteLine("Tudo bem com voce?");
+            Console.WriteLine("Bom dia");
             Console.WriteLine("Tchau!");
       
         }
